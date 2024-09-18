@@ -1,2 +1,3 @@
 # code
-- [view](https://lummelis.github.io/code/)
+
+[view](https://lummelis.github.io/code/)
